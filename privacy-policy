@@ -1,38 +1,32 @@
+Privacy Policy
 LAST UPDATED ON 9TH OF December, 2023
 
+We know you care about your personal information and we take your privacy seriously. Please read the following to learn more about our Privacy Policy.
 
-# What data do we collect?
-We may collect and process any data generated from interacting with the bot or any other data relavant to the operation of the bot (e.g being a Patron). All of the relevant data collected is in relation to your Discord User ID.
+Collection of data
+Reedroux only collects data that is required to provide services to you. None of the collected data can be used to personally identify a user/individual.
 
-# Examples of interacting with the bot
-Executing a command
-Clicking a button on a Discord message sent by the bot
-Listening to audio provided by the bot
-Examples of data currently collected
-When executing a command
-Discord Guild, Channel, User and Message ID
-Command and Alias used to execute the command
-Arguments and Options used in the command
-When becoming a Patron
-Patreon ID
-Discord User ID
-How much you paid for your current tier
-When listening to a track
-Discord Guild and User ID
-Track ID
-A time range of when you started and stopped listening to the track
-When using the 24/7 feature
-The entire queue for as long as the feature is enabled
-When stopping a session
-The queue for the past 3 sessions will be stored in relation to the session owner to be used for resuming
-What purposes do we store this data for?
-All the data collected is used for diagnostic purposes or for additional bot features (e.g the statistics dashboard and profile command).
+Saved data
+The following information is saved by Reedroux only for proper function of them:
 
-# Do we share this data with anyone else?
-No data collected is shared with any third-party service, the data is only accessible to you and in some cases (e.g the profile command) other users in the form of bot features.
+User Ids ( For user specific features, such as profile level and vote rewards )
 
-# Changes to the privacy policy
-We may occasionally make changes to our privacy policy, in the event of a change we will update this page to reflect the changes and include the date of the update, as can currently be seen at the top of the page after "Last updated on". We recommend you review this page periodically for any changes in our privacy policy. Changes to our privacy policy are effective when they are posted on this page.
+Channel Ids ( For configurations that are specific to channels )
 
-# Contact us
-We are available to help you in our support server  https://discord.gg/evGhPdRJWH.
+Role Ids ( For the dj roles feature configuration )
+
+Server Ids ( For server settings and preferences )
+
+Any user supplied content that can include profile backgrounds, custom stations, stage topic
+
+Security of data
+We only retain collected information for as long as necessary to provide you with your requested service. What data we do collect, we’ll protect using commercially reasonable means to prevent loss and theft, as well as unauthorized access, disclosure, copying, use, or modification.
+
+Link to other sites
+Our service may link to external sites that are not operated by us. Please be aware that we have no control over the content and practices of these sites, and cannot accept responsibility or liability for their respective privacy policies.
+
+Opting out
+Users can always opt-out simply by stopping using Reedroux or kicking it from their server. Upon request, users may also request to have all of their current data deleted from Reedroux.
+
+Contact us
+If you have any questions or concerns regarding our privacy policies, please contact us on our [support server](https://discord.gg/evGhPdRJWH), and we will try to resolve your concerns.
